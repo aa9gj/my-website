@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Abdullah "Arby" Abood
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Virginia
+  url: "https://med.virginia.edu/cphg/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Computational biologist and data scientist in training with focus on precision medicine.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- System Genetics
+- Computational Biology
+- Genetic Epidemiology
 
 education:
   courses:
