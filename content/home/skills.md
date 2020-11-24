@@ -27,7 +27,7 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = " https://sourcethemes.com/academic/docs/page-builder/#icons"
+  icon = "https://sourcethemes.com/academic/docs/page-builder/#icons"
   #icon_pack = "fas"
   name = "Genetics"
   description = "100%"
