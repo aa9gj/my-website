@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Farber Lab"
+title = "Arby Abood"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "UVA_simple.jpg"
@@ -51,7 +51,7 @@ title = "Farber Lab"
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-**#1 ranked lab in the state of Virginia. Citation coming soon.**
+**#Testing.**
 
 Additional details about the lab
 
