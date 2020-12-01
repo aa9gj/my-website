@@ -51,10 +51,13 @@ title = "Arby Abood"
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-PhD candidate \n
-University of Virginia \n
-Center for Public Health Genomics \n
-Data Science Training Program \n
+PhD candidate
+
+University of Virginia
+
+Center for Public Health Genomics
+
+Data Science Training Program
 
 
 
