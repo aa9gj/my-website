@@ -29,6 +29,7 @@ date_format = "Jan 2006"
   
   * Analysing NGS data
   * Deploying bioinformatics pipelines
+  * Doing
   """
 
 [[experience]]
