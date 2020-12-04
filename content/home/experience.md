@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Charlottesville"
   date_start = "2018-07-01"
   date_end = ""
-  description = "Elucidating the genetics of osteoporosis"
+  description = """Elucidating the genetics of osteoporosis"""
   Responsibilities include:
   
   * Analysing NGS data
