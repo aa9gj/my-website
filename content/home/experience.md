@@ -38,6 +38,6 @@ date_format = "Jan 2006"
   location = "Clemson, SC"
   date_start = ""
   date_end = ""
-  description = """"""
+  description = """ """
 
 +++
