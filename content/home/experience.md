@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "University of Virginia"
   company_url = ""
   location = "Charlottesville, VA"
-  date_start = "07-01-2018"
+  date_start = "2018-01-01"
   date_end = ""
   description = """
   Responsibilities include:
