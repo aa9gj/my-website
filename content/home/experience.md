@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   company = "Clemson University"
   company_url = ""
   location = "Clemson, SC"
-  date_start = ""
+  date_start = "2018-01-01"
   date_end = ""
   description = """ """
 
