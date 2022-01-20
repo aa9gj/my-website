@@ -14,7 +14,7 @@ organizations:
   url: "https://med.virginia.edu/cphg/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m a PhD candidate, bioinformatician and data scientist at The University of Virginia School of Medicine. My research focuses on identifying theraputic targets for ostoeoporosis using systems genetics. I am currently integrating genome-wide assocition studies, splice quantitative trait loci, long-read RNA sequencing, and proteomics to identify novel isoforms as candidate causal mediators of disease. I love talking about genomics, bioinformatics, soccer, and cooking.
+bio: I’m a PhD candidate, bioinformatician and data scientist at The University of Virginia School of Medicine. My research focuses on identifying theraputic targets for ostoeoporosis using systems genetics. I am currently integrating genome-wide assocition studies, splice quantitative trait loci, long-read RNA sequencing, and proteomics to identify novel isoforms as candidate causal mediators of disease. 
 
 interests:
 - Systems Genetics
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I’m a PhD candidate, bioinformatician and data scientist at The University of Virginia School of Medicine. My research focuses on identifying theraputic targets for ostoeoporosis using systems genetics. I am currently integrating genome-wide assocition studies, splice quantitative trait loci, long-read RNA sequencing, and proteomics to identify novel isoforms as candidate causal mediators of disease. I love talking about genomics, bioinformatics, soccer, and cooking.
+I’m a PhD candidate, bioinformatician and data scientist at The University of Virginia School of Medicine. My research focuses on identifying theraputic targets for ostoeoporosis using systems genetics. I am currently integrating genome-wide assocition studies, splice quantitative trait loci, long-read RNA sequencing, and proteomics to identify novel isoforms as candidate causal mediators of disease.
