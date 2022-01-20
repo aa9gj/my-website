@@ -43,7 +43,7 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:aa9gj@virginia.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/arbywho
+  link: https://twitter.com/ArbyAbood
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=bN1CqSQAAAAJ&hl=en
