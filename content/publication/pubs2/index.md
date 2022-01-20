@@ -1,8 +1,8 @@
 +++
-title = "Identification of known and novel long non-coding RNAs potentially responsible for the effects of BMD GWAS loci"
+title = "Using -omics Data to Inform Genome-wide Association Studies (GWASs) in the Osteoporosis Field"
 
 # Date first published.
-date = "2021-11-01"
+date = "2021-08-19"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Abdullah Abood", "Charles R. Farber"]
