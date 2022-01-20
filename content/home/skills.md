@@ -24,19 +24,19 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "100%"  
+  description = ""  
   
 [[feature]]
   icon = "genetics"
   icon_pack = "custom"
   name = "Genetic epidemiology and statistics"
-  description = "100%"
+  description = ""
   
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Bash"
-  description = "100%"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
