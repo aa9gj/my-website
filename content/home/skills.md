@@ -27,7 +27,7 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "genetics"
+  icon = "dna"
   icon_pack = "custom"
   name = "Genetic epidemiology and statistics"
   description = ""
