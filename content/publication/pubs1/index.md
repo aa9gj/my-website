@@ -5,7 +5,7 @@ title = "Identification of known and novel long non-coding RNAs potentially resp
 date = "2021-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Abdullah Abood", "et al."]
+authors = ["Abdullah Abood", "Larry Mesner", "Will Rosenow", "Basel M. Al-Barghouthi", "Nina Horwitz", "Elise F. Morgan", "Louis C. Gerstenfeld", "Charles R. Farber"]
 
 # Publication type.
 # Legend:
