@@ -27,8 +27,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing multidimensional transcroptomic and epigenomic data
-  * Deploying bioinformatic pipelines
+  * Informed bone mineral density (BMD) genome-wide association studies (GWAS) by integrating splice quantitative trait loci (sQTL) data with Bayesian colocalization analysis. The results were further refined by using data from long-read RNAseq, and proteomics followed by experimental validation in-vitro. This enabled us to implicate causal genes in osteoporosis. 
+  * Systematically identified long non-coding RNAs potentially responsible for the effect of BMD GWAS loci using expression quantitative trait loci (eQTL) Bayesian colocalization, transcriptome-wide association studies (TWAS), and allelic imbalance analyses. Due to this work, we were able to shed light on the non-coding aspects of the bone transcriptome and their role in osteoporosis.
+  * Characterized the landscape of isoforms and proteoforms in the process of osteoblast differentiation by combining long-read RNAseq data and proteomics data and applying differential expression analysis, differential splicing analysis, differential isoform usage, and other statistical approaches. 
   """
 
 [[experience]]
@@ -38,6 +39,11 @@ date_format = "Jan 2006"
   location = "Clemson, SC"
   date_start = "2015-08-01"
   date_end = "2018-05-15"
-  description = """ """
+  description = """
+  * Investigated human oral and gut microbiome community dynamics using both 16S and Whole Genome Shotgun (WGS) metagenomics data analyses. This enabled us to understand host-microbiome interaction and provide detailed abundance counts at bacterial strain level resolution.
+  * Implemented multiple bioinformatics pipelines and provided detailed instructions on their usage to assist lab partners and collaborators with their research needs.
+  * Managed day-to-day laboratory operations including ordering, and Linux server maintenance.
+  * Gained experience in the bash/Linux command line interface (CLI), Python, and R.
+  """
 
 +++
