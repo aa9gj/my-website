@@ -18,18 +18,24 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "100%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Python"
   description = "100%"  
   
 [[feature]]
   icon = "https://sourcethemes.com/academic/docs/page-builder/#icons"
   #icon_pack = "fas"
-  name = "Genetics"
+  name = "Genetic epidemiology and statistics"
+  description = "100%"
+  
+[[feature]]
+  icon = "https://sourcethemes.com/academic/docs/page-builder/#icons"
+  #icon_pack = "fas"
+  name = "Bash"
   description = "100%"
 
 # Uncomment to use emoji icons.
